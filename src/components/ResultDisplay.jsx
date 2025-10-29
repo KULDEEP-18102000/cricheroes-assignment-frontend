@@ -120,7 +120,7 @@ const ResultDisplay = ({ result, formData }) => {
             </div>
 
             {/* Interpretation */}
-            <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
+            {/* <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
               <div className="flex items-start">
                 <span className="text-2xl mr-3">💡</span>
                 <div>
@@ -144,7 +144,7 @@ const ResultDisplay = ({ result, formData }) => {
                   </p>
                 </div>
               </div>
-            </div>
+            </div> */}
           </>
         )}
 
